@@ -1,0 +1,48 @@
+{
+  "name": "PokePulse",
+  "dataColors": [
+    "#FFCB05","#3D7DCA","#ce2c47",
+    "#5cbf7a","#a78bfa","#f97316",
+    "#22d3ee","#f472b6"
+  ],
+  "background": "#0d0f1a",
+  "foreground": "#e8e6f0",
+  "tableAccent": "#FFCB05",
+  "textClasses": {
+    "callout": {"fontSize": 28, "color": "#FFCB05"},
+    "title": {"color": "#e8e6f0"},
+    "label": {"color": "#c0bdd8"},
+    "header": {"color": "#e8e6f0"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#13162a"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#e8e6f0"}}}],
+        "gridlineColor": [{"color": {"solid": {"color": "#2a2d4a"}}}],
+        "axisColor": [{"color": {"solid": {"color": "#c0bdd8"}}}],
+        "labelColor": [{"color": {"solid": {"color": "#c0bdd8"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#13162a"}}}],
+        "dataLabel": [{"color": {"solid": {"color": "#FFCB05"}}}],
+        "categoryLabel": [{"color": {"solid": {"color": "#9a98b8"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "fontColor": [{"color": {"solid": {"color": "#e8e6f0"}}}],
+        "headerFontColor": [{"color": {"solid": {"color": "#FFCB05"}}}],
+        "backColor": [{"color": {"solid": {"color": "#13162a"}}}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "labelColor": [{"color": {"solid": {"color": "#e8e6f0"}}}],
+        "axisColor": [{"color": {"solid": {"color": "#c0bdd8"}}}]
+      }
+    }
+  }
+}

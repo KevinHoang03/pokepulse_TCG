@@ -1,0 +1,564 @@
+card_id,name,set_id,set_name,series,rarity,snapshot_date,price_low,price_mid,price_market,price_high
+sv1-8,Scatterbug,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.11,20.0
+sv1-1,Pineco,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.08,10.1
+sv1-6,Cacturne,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.12,25.0
+sv1-12,Gogoat,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,20.0
+sv1-13,Sprigatito,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.07,20.0
+sv1-15,Meowscarada,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.2,0.17,40.0
+sv1-16,Tarountula,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,10.1
+sv1-18,Tarountula,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.08,20.0
+sv1-20,Smoliv,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.08,19.5
+sv1-21,Smoliv,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.12,20.0
+sv1-19,Spidops ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.25,0.99,0.56,35.0
+sv1-23,Arboliva,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.16,0.13,19.5
+sv1-24,Toedscool,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,10.08
+sv1-2,Heracross,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.08,10.06
+sv1-4,Breloom,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.09,20.0
+sv1-7,Tropius,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,20.0
+sv1-10,Vivillon,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.09,20.0
+sv1-11,Skiddo,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.09,10.08
+sv1-14,Floragato,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.14,10.1
+sv1-26,Toedscruel,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.1,25.0
+sv1-3,Shroomish,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.09,10.08
+sv1-5,Cacnea,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,10.11
+sv1-9,Spewpa,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.06,25.0
+sv1-17,Tarountula,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,10.09
+sv1-22,Dolliv,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.1,20.0
+sv1-25,Toedscool,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.08,20.0
+sv1-45,Gyarados ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.55,1.36,1.29,12.95
+sv1-29,Scovillain,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.11,20.0
+sv1-51,Bruxish,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.09,10.12
+sv1-56,Wiglett,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.04,0.15,0.11,18.0
+sv1-37,Crocalor,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.08,20.0
+sv1-57,Wugtrio,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.09,19.5
+sv1-38,Skeledirge,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.17,0.14,19.5
+sv1-59,Cetoddle,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.08,20.0
+sv1-40,Charcadet,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,10.09
+sv1-46,Buizel,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.08,10.1
+sv1-60,Cetitan,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.1,20.0
+sv1-49,Clauncher,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.1,0.05,20.0
+sv1-50,Clawitzer,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.02,0.13,0.09,20.0
+sv1-53,Quaxwell,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.07,10.08
+sv1-54,Quaquaval,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.17,0.14,20.0
+sv1-55,Wiglett,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,18.0
+sv1-27,Capsakid,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.1,10.11
+sv1-30,Growlithe,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.13,20.0
+sv1-28,Capsakid,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.03,0.15,0.12,10.07
+sv1-32,Arcanine ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.35,0.99,0.9,4321.0
+sv1-35,Torkoal,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.08,20.0
+sv1-36,Fuecoco,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,20.0
+sv1-39,Charcadet,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,20.0
+sv1-43,Slowbro,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.25,0.26,50.0
+sv1-47,Floatzel,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.09,25.0
+sv1-48,Alomomola,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.18,0.15,10.12
+sv1-31,Growlithe,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.03,0.18,0.19,10.15
+sv1-33,Houndour,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.1,0.07,25.0
+sv1-34,Houndoom,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.11,20.0
+sv1-41,Armarouge,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.17,0.16,10.15
+sv1-42,Slowpoke,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.18,0.18,10.14
+sv1-44,Magikarp,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.1,20.0
+sv1-52,Quaxly,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.09,10.09
+sv1-58,Cetoddle,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.09,25.0
+sv1-61,Dondozo,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.19,0.18,20.0
+sv1-63,Magnemite,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.08,25.0
+sv1-64,Magneton,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.07,25.0
+sv1-62,Tatsugiri,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.13,20.0
+sv1-69,Rotom,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.13,20.0
+sv1-66,Mareep,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,10.1
+sv1-76,Pawmot,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.15,0.13,19.5
+sv1-75,Pawmo,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,10.07
+sv1-80,Miraidon,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.16,0.14,40.0
+sv1-77,Wattrel,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.08,19.5
+sv1-81,Miraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.25,0.8,0.59,15.99
+sv1-78,Wattrel,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.06,25.0
+sv1-83,Hypno,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.06,10.08
+sv1-79,Kilowattrel,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.07,20.0
+sv1-86,Gardevoir ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.2,0.99,0.82,4321.0
+sv1-94,Dedenne,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.13,20.0
+sv1-82,Drowzee,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.1,10.07
+sv1-96,Klefki,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.26,0.26,20.0
+sv1-84,Ralts,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.06,20.0
+sv1-97,Fidough,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.1,20.0
+sv1-85,Kirlia,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.18,0.15,25.0
+sv1-98,Fidough,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.14,20.0
+sv1-87,Shuppet,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.08,19.5
+sv1-101,Flittle,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,10.12
+sv1-89,Drifloon,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.1,25.0
+sv1-90,Drifblim,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.09,20.0
+sv1-91,Flabébé,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.09,20.0
+sv1-65,Magnezone ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.25,0.96,0.63,4321.0
+sv1-67,Flaaffy,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.12,20.0
+sv1-71,Toxel,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.1,20.0
+sv1-72,Toxtricity,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.12,25.0
+sv1-74,Pawmi,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.09,25.0
+sv1-93,Florges,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.08,20.0
+sv1-100,Flittle,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.08,10.09
+sv1-68,Pachirisu,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.1,25.0
+sv1-70,Rotom,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.11,10.1
+sv1-73,Pawmi,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,10.09
+sv1-88,Banette ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.3,0.99,0.65,80.0
+sv1-92,Floette,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.11,25.0
+sv1-95,Dedenne,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.16,10.13
+sv1-99,Dachsbun,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.09,10.11
+sv1-102,Flittle,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.08,10.07
+sv1-105,Greavard,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.07,25.0
+sv1-104,Greavard,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.07,20.0
+sv1-103,Espathra,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.08,10.08
+sv1-106,Houndstone,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.15,0.09,10.1
+sv1-107,Mankey,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.07,10.12
+sv1-108,Primeape,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.09,10.09
+sv1-109,Annihilape,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.17,0.17,19.5
+sv1-111,Medicham,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.08,20.0
+sv1-110,Meditite,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.1,0.07,19.5
+sv1-113,Riolu,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.14,20.0
+sv1-112,Riolu,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,20.0
+sv1-114,Lucario,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.15,20.0
+sv1-115,Sandile,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.07,20.0
+sv1-117,Krookodile,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.1,25.0
+sv1-118,Hawlucha,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.25,0.21,10.2
+sv1-116,Krokorok,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,19.5
+sv1-119,Silicobra,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.1,10.09
+sv1-120,Sandaconda,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.07,10.06
+sv1-121,Stonjourner,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.11,20.0
+sv1-123,Great Tusk ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.3,0.99,0.57,4321.0
+sv1-122,Klawf,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.15,0.1,25.0
+sv1-124,Koraidon,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.17,0.11,36.0
+sv1-125,Koraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.2,0.99,0.58,50.0
+sv1-126,Grimer,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.11,20.0
+sv1-127,Muk,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.1,20.0
+sv1-128,Seviper,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.08,25.0
+sv1-132,Pawniard,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.08,20.0
+sv1-129,Spiritomb,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.05,25.0
+sv1-130,Croagunk,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.07,25.0
+sv1-131,Toxicroak ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.25,0.99,0.7,4.99
+sv1-133,Bisharp,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,20.0
+sv1-134,Kingambit,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.16,0.13,20.0
+sv1-135,Maschiff,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.07,25.0
+sv1-136,Maschiff,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.1,0.08,20.0
+sv1-139,Forretress,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.07,20.0
+sv1-137,Mabosstiff,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.07,10.09
+sv1-138,Bombirdier,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.08,20.0
+sv1-140,Varoom,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.1,0.06,10.08
+sv1-142,Revavroom,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.02,0.16,0.13,20.0
+sv1-141,Varoom,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.08,20.0
+sv1-143,Iron Treads ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.17,0.99,0.49,50.0
+sv1-144,Chansey,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.14,20.0
+sv1-145,Blissey,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.13,20.0
+sv1-146,Zangoose,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.08,10.09
+sv1-148,Starly,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.13,0.09,19.5
+sv1-147,Zangoose,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.08,20.0
+sv1-151,Skwovet,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,20.0
+sv1-149,Staravia,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.09,10.08
+sv1-150,Staraptor,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.11,25.0
+sv1-153,Indeedee,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.2,0.18,40.0
+sv1-152,Greedent,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.09,10.12
+sv1-154,Lechonk,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.12,0.08,10.08
+sv1-158,Oinkologne ex,sv1,Scarlet & Violet,Scarlet & Violet,Double Rare,2026-03-19,0.27,0.99,0.85,5.95
+sv1-157,Oinkologne,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.08,19.5
+sv1-155,Lechonk,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.14,0.11,200.0
+sv1-156,Lechonk,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,10.1
+sv1-159,Tandemaus,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.03,0.2,0.17,20.0
+sv1-160,Tandemaus,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.04,0.18,0.17,20.0
+sv1-162,Squawkabilly,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.16,0.14,10.08
+sv1-161,Maushold,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.15,20.0
+sv1-164,Cyclizar,sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.15,0.1,40.0
+sv1-163,Cyclizar,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.07,10.09
+sv1-165,Flamigo,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.12,0.11,20.0
+sv1-166,Arven,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.05,0.5,0.36,29.99
+sv1-167,Beach Court,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.07,19.5
+sv1-173,Energy Switch,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.24,0.23,10.16
+sv1-169,Defiance Band,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.02,0.19,0.14,10.19
+sv1-171,Energy Retrieval,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.2,0.12,2.28
+sv1-172,Energy Search,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.04,0.2,0.16,25.0
+sv1-174,Exp. Share,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.2,0.2,19.5
+sv1-168,Crushing Hammer,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.12,10.11
+sv1-170,Electric Generator,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.07,19.5
+sv1-176,Judge,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.2,0.14,19.5
+sv1-178,Mesagoza,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.08,19.5
+sv1-175,Jacq,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.2,0.19,15.0
+sv1-177,Katy,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.13,0.1,25.0
+sv1-179,Miriam,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.12,19.5
+sv1-180,Nemona,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.11,0.07,10.1
+sv1-181,Nest Ball,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.02,0.25,0.27,40.0
+sv1-183,Penny,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.03,0.26,0.28,1.99
+sv1-182,Pal Pad,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.04,0.26,0.25,10.26
+sv1-184,Picnic Basket,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.07,10.09
+sv1-185,Poké Ball,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.09,10.13
+sv1-187,Pokémon Catcher,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.17,0.13,19.5
+sv1-188,Potion,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.15,0.07,10.16
+sv1-186,Pokégear 3.0,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.12,0.34,0.26,99.0
+sv1-189,Professor's Research (Professor Sada),sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.2,0.07,19.5
+sv1-191,Rare Candy,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.2,0.19,99.0
+sv1-190,Professor's Research (Professor Turo),sv1,Scarlet & Violet,Scarlet & Violet,Rare,2026-03-19,0.01,0.15,0.1,10.11
+sv1-192,Rock Chestplate,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.14,0.08,10.06
+sv1-193,Rocky Helmet,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.06,10.09
+sv1-194,Switch,sv1,Scarlet & Violet,Scarlet & Violet,Common,2026-03-19,0.01,0.16,0.15,19.0
+sv1-195,Team Star Grunt,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.11,0.09,10.09
+sv1-196,Ultra Ball,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.23,0.23,10.15
+sv1-198,Youngster,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.1,0.04,19.5
+sv1-200,Dolliv,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,3.15,5.0,5.02,75.0
+sv1-197,Vitality Band,sv1,Scarlet & Violet,Scarlet & Violet,Uncommon,2026-03-19,0.01,0.15,0.12,10.19
+sv1-199,Tarountula,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,5.19,8.75,8.89,500.0
+sv1-201,Toedscool,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,3.0,4.66,4.24,18.0
+sv1-203,Armarouge,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,9.95,13.88,13.2,60.0
+sv1-202,Scovillain,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,2.46,4.08,3.85,12.99
+sv1-206,Wiglett,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,8.37,11.28,11.32,40.0
+sv1-204,Slowpoke,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,29.75,34.52,30.75,100.0
+sv1-205,Clauncher,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,4.0,5.71,5.73,19.0
+sv1-209,Pawmot,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,4.0,6.73,6.61,100.0
+sv1-208,Pachirisu,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,8.35,13.88,14.02,40.49
+sv1-210,Drowzee,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,36.01,50.0,46.27,4321.0
+sv1-207,Dondozo,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,7.0,10.03,9.44,29.99
+sv1-214,Greavard,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,12.92,19.28,17.44,500.0
+sv1-215,Riolu,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,19.67,32.69,32.1,120.0
+sv1-211,Ralts,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,28.09,40.0,35.54,300.0
+sv1-212,Kirlia,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,35.0,42.53,38.09,125.0
+sv1-213,Fidough,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,13.72,17.63,16.83,200.0
+sv1-217,Klawf,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,2.49,4.29,3.8,25.0
+sv1-218,Mabosstiff,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,3.0,5.5,5.05,40.0
+sv1-216,Sandile,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,2.99,5.22,4.92,18.0
+sv1-219,Bombirdier,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,2.89,3.99,3.73,20.0
+sv1-220,Kingambit,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,4.45,6.57,5.95,29.25
+sv1-221,Starly,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,6.0,9.0,8.77,40.0
+sv1-222,Skwovet,sv1,Scarlet & Violet,Scarlet & Violet,Illustration Rare,2026-03-19,3.0,5.0,4.83,18.0
+sv1-224,Arcanine ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,6.98,11.79,11.51,511.65
+sv1-226,Magnezone ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.95,1.53,1.34,20.0
+sv1-225,Gyarados ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,6.33,8.65,7.89,24.99
+sv1-223,Spidops ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.6,1.24,1.01,20.0
+sv1-228,Gardevoir ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,3.5,4.92,4.51,20.0
+sv1-227,Miraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,1.98,3.16,3.06,503.04
+sv1-229,Banette ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.9,1.85,1.46,20.0
+sv1-231,Koraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.75,1.94,1.45,20.0
+sv1-230,Great Tusk ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.68,1.2,1.05,20.0
+sv1-233,Iron Treads ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.7,1.11,0.94,4321.0
+sv1-232,Toxicroak ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.9,1.77,1.67,9.99
+sv1-234,Oinkologne ex,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.5,1.3,1.21,19.95
+sv1-235,Arven,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,3.7,5.57,4.87,25.0
+sv1-237,Katy,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,1.25,2.41,1.84,20.0
+sv1-236,Jacq,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,1.3,2.29,2.18,20.0
+sv1-238,Miriam,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,3.99,6.19,5.8,96.95
+sv1-241,Professor's Research (Professor Turo),sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.95,1.91,1.65,21.0
+sv1-240,Professor's Research (Professor Sada),sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,1.75,3.99,3.44,52.0
+sv1-239,Penny,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,3.0,4.8,4.17,40.0
+sv1-242,Team Star Grunt,sv1,Scarlet & Violet,Scarlet & Violet,Ultra Rare,2026-03-19,0.95,1.7,1.44,20.0
+sv1-243,Spidops ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,5.0,7.0,6.89,20.0
+sv1-244,Miraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,17.0,23.0,20.34,4321.0
+sv1-245,Gardevoir ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,69.05,99.97,77.26,300.0
+sv1-246,Great Tusk ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,7.5,10.08,9.11,109.09
+sv1-248,Iron Treads ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,3.0,5.0,4.56,99.99
+sv1-247,Koraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,14.99,20.0,17.8,75.0
+sv1-249,Arven,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,4.3,6.9,5.6,40.0
+sv1-250,Jacq,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,2.5,4.53,4.01,4321.0
+sv1-252,Penny,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,4.7,7.25,6.19,4321.0
+sv1-251,Miriam,sv1,Scarlet & Violet,Scarlet & Violet,Special Illustration Rare,2026-03-19,21.0,27.35,23.68,1500.0
+sv1-253,Miraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,5.0,7.0,6.42,4321.0
+sv1-255,Nest Ball,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,3.93,6.82,4.92,50.0
+sv1-256,Rare Candy,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,4.81,6.89,6.28,29.99
+sv1-254,Koraidon ex,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,4.44,5.99,5.59,96.95
+sv1-258,Basic Fighting Energy,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,5.95,8.26,7.69,25.0
+sv1-257,Basic Lightning Energy,sv1,Scarlet & Violet,Scarlet & Violet,Hyper Rare,2026-03-19,3.25,4.99,4.35,96.95
+swsh4-1,Weedle,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.13
+swsh4-2,Kakuna,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.12,25.1
+swsh4-3,Beedrill,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.2,0.2,999.99
+swsh4-4,Exeggcute,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.1,0.07,25.07
+swsh4-5,Exeggutor,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.23,0.22,19.5
+swsh4-6,Yanma,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.1,25.09
+swsh4-7,Yanmega,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.03,0.2,0.15,999.99
+swsh4-8,Pineco,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.16,0.12,25.19
+swsh4-9,Celebi,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,3.49,5.02,4.51,300.0
+swsh4-10,Seedot,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.1,0.04,25.05
+swsh4-11,Nuzleaf,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.06,25.06
+swsh4-12,Shiftry,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.03,0.2,0.18,5.48
+swsh4-13,Nincada,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.12,0.08,25.08
+swsh4-14,Ninjask,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.08,0.28,0.28,999.99
+swsh4-15,Shaymin,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.04,0.3,0.29,999.99
+swsh4-16,Genesect,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.09,0.36,0.39,999.99
+swsh4-17,Skiddo,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.17,0.18,25.16
+swsh4-18,Gogoat,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.12,25.11
+swsh4-19,Dhelmise,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.14,25.14
+swsh4-20,Orbeetle V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.25,0.99,0.58,25.63
+swsh4-21,Orbeetle VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,0.6,1.89,1.52,10.0
+swsh4-22,Zarude V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.27,0.99,0.65,25.64
+swsh4-23,Charmander,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.25,0.34,25.0
+swsh4-24,Charmeleon,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.2,0.21,25.14
+swsh4-25,Charizard,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.96,2.49,2.49,500.0
+swsh4-26,Flareon,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.11,0.38,0.35,4.97
+swsh4-27,Slugma,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.09,25.06
+swsh4-28,Magcargo,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.12,0.1,25.08
+swsh4-29,Talonflame V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.38,0.99,0.9,25.76
+swsh4-30,Vaporeon,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.1,0.4,0.39,4.99
+swsh4-31,Wailmer,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.16,0.16,25.16
+swsh4-32,Wailord,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.01,0.4,0.45,999.99
+swsh4-33,Oshawott,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.18,0.19,25.19
+swsh4-34,Dewott,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.17,0.17,25.15
+swsh4-35,Samurott,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.09,0.28,0.27,999.99
+swsh4-36,Galarian Darmanitan V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.29,0.99,0.64,25.5
+swsh4-37,Galarian Darmanitan VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,0.75,1.99,1.38,19.95
+swsh4-38,Chewtle,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.11,25.1
+swsh4-39,Drednaw,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.05,0.25,0.21,999.99
+swsh4-40,Cramorant,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.12,25.11
+swsh4-41,Arrokuda,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.1,25.11
+swsh4-42,Barraskewda,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.2,0.19,999.99
+swsh4-43,Pikachu V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.85,2.28,2.2,4321.0
+swsh4-44,Pikachu VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,7.0,10.81,9.96,200.0
+swsh4-45,Voltorb,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.12,0.1,25.1
+swsh4-46,Electrode,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.04,0.28,0.25,999.99
+swsh4-47,Jolteon,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.15,0.45,0.45,4.97
+swsh4-48,Zapdos,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.07,0.42,0.42,999.99
+swsh4-49,Ampharos V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.48,1.0,0.93,17.0
+swsh4-50,Raikou,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,3.2,5.11,4.97,96.95
+swsh4-51,Electrike,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.12,0.1,25.09
+swsh4-52,Manectric,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.02,0.24,0.24,5.03
+swsh4-53,Blitzle,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.12,0.07,25.08
+swsh4-54,Zebstrika,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.14,0.08,25.08
+swsh4-55,Joltik,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.13
+swsh4-56,Galvantula,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.14,25.13
+swsh4-57,Tynamo,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.13,25.14
+swsh4-58,Eelektrik,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.1,25.11
+swsh4-59,Eelektross,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.2,0.18,999.99
+swsh4-60,Zekrom,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.05,0.34,0.33,999.99
+swsh4-61,Zeraora,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.08,0.28,0.26,999.99
+swsh4-62,Pincurchin,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.1,25.1
+swsh4-63,Clefairy,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.17,0.17,25.18
+swsh4-64,Clefable,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.07,0.28,0.29,999.99
+swsh4-65,Girafarig,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.18,0.16,25.17
+swsh4-66,Shedinja,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.1,0.36,0.37,999.99
+swsh4-67,Shuppet,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.12,0.12,25.11
+swsh4-68,Banette,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.25,0.24,1.49
+swsh4-69,Duskull,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.15
+swsh4-70,Dusclops,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.07,19.5
+swsh4-71,Dusknoir,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.01,0.25,0.2,999.99
+swsh4-72,Chimecho,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.02,0.19,0.16,25.17
+swsh4-73,Woobat,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.12,25.1
+swsh4-74,Swoobat,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.13,25.13
+swsh4-75,Cottonee,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.11,0.09,25.1
+swsh4-76,Whimsicott,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.02,0.22,0.21,999.99
+swsh4-77,Dedenne,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.22,0.21,25.25
+swsh4-78,Xerneas,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.1,0.35,0.36,999.99
+swsh4-79,Diancie,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.05,0.3,0.3,999.99
+swsh4-80,Milcery,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.13
+swsh4-81,Alcremie,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.03,0.24,0.23,19.5
+swsh4-82,Zacian,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,1.79,3.13,3.36,19.95
+swsh4-83,Wooper,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.19,0.19,25.16
+swsh4-84,Quagsire,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.05,0.25,0.29,19.5
+swsh4-85,Shuckle,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.16,0.15,25.16
+swsh4-86,Phanpy,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.18,0.16,19.5
+swsh4-87,Donphan,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.2,0.12,2.23
+swsh4-88,Hitmontop,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.17,19.5
+swsh4-89,Regirock,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.05,0.31,0.3,999.99
+swsh4-90,Riolu,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.17,0.17,25.15
+swsh4-91,Drilbur,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.11,25.14
+swsh4-92,Terrakion,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.21,0.2,2.0
+swsh4-93,Zygarde,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.07,0.29,0.28,999.99
+swsh4-94,Rockruff,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.12,25.12
+swsh4-95,Lycanroc,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.2,0.18,19.5
+swsh4-96,Mudbray,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.13,25.14
+swsh4-97,Mudsdale,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.2,0.17,19.5
+swsh4-98,Coalossal V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.44,0.99,0.8,9000.0
+swsh4-99,Coalossal VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,0.89,1.88,1.48,24.99
+swsh4-100,Clobbopus,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.13,0.13,25.13
+swsh4-101,Grapploct,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.19,0.14,19.5
+swsh4-102,Zamazenta,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,1.0,2.52,2.2,19.95
+swsh4-103,Poochyena,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.09,25.11
+swsh4-104,Mightyena,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.16,0.15,25.14
+swsh4-105,Sableye,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.17,0.18,25.17
+swsh4-106,Drapion V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.25,0.99,0.66,9000.0
+swsh4-107,Sandile,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.14,25.14
+swsh4-108,Krokorok,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.12,25.12
+swsh4-109,Krookodile,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.05,0.2,0.2,999.99
+swsh4-110,Trubbish,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.15
+swsh4-111,Garbodor,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.02,0.2,0.14,19.5
+swsh4-112,Galarian Meowth,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.15,25.13
+swsh4-113,Galarian Perrserker,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.02,0.2,0.16,19.5
+swsh4-114,Forretress,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.01,0.2,0.17,20.0
+swsh4-115,Steelix V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.47,1.0,0.95,80.0
+swsh4-116,Beldum,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.15,0.14,25.12
+swsh4-117,Metang,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.11,25.11
+swsh4-118,Metagross,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.08,0.25,0.28,19.5
+swsh4-119,Jirachi,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,4.28,5.66,5.33,96.95
+swsh4-120,Lucario,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.3,0.35,999.99
+swsh4-121,Dialga,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.09,0.33,0.31,999.99
+swsh4-122,Excadrill,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.14,0.1,25.09
+swsh4-123,Ferroseed,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.1,0.06,25.05
+swsh4-124,Ferrothorn,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.05,25.05
+swsh4-125,Galarian Stunfisk,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.12,0.08,19.5
+swsh4-126,Aegislash V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.4,0.99,0.74,60.0
+swsh4-127,Aegislash VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,0.75,1.95,1.56,19.95
+swsh4-128,Magearna,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.04,0.3,0.31,999.99
+swsh4-129,Duraludon,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.03,0.25,0.23,999.99
+swsh4-130,Eevee,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.04,0.25,0.2,25.27
+swsh4-131,Snorlax,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.25,2.24,2.16,999.87
+swsh4-132,Lugia,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.24,0.88,0.79,9.99
+swsh4-133,Taillow,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.16,0.17,25.16
+swsh4-134,Swellow,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.15,25.13
+swsh4-135,Whismur,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.13,0.1,25.08
+swsh4-136,Loudred,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.16,0.16,25.15
+swsh4-137,Exploud,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.04,0.2,0.19,33.0
+swsh4-138,Rayquaza,swsh4,Vivid Voltage,Sword & Shield,Amazing Rare,2026-03-19,12.03,15.68,14.23,49.99
+swsh4-139,Chatot,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.14,0.09,25.09
+swsh4-140,Togekiss V,swsh4,Vivid Voltage,Sword & Shield,Rare Holo V,2026-03-19,0.37,1.0,0.91,99.9
+swsh4-141,Togekiss VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Holo VMAX,2026-03-19,1.24,2.2,2.11,19.95
+swsh4-142,Tornadus,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.01,0.22,0.21,999.99
+swsh4-143,Pikipek,swsh4,Vivid Voltage,Sword & Shield,Common,2026-03-19,0.01,0.16,0.15,25.15
+swsh4-144,Trumbeak,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.15,25.13
+swsh4-145,Toucannon,swsh4,Vivid Voltage,Sword & Shield,Rare,2026-03-19,0.03,0.25,0.23,4.0
+swsh4-146,Allister,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.09,19.5
+swsh4-147,Bea,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.11,19.5
+swsh4-148,Beauty,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.06,25.06
+swsh4-149,Cara Liss,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.08,19.5
+swsh4-150,Circhester Bath,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.07,19.5
+swsh4-151,Drone Rotom,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.16,0.16,25.18
+swsh4-152,Hero's Medal,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.14,0.07,25.07
+swsh4-153,League Staff,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.13,0.08,25.08
+swsh4-154,Leon,swsh4,Vivid Voltage,Sword & Shield,Rare Holo,2026-03-19,0.1,0.27,0.28,999.99
+swsh4-155,Memory Capsule,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.12,1.5
+swsh4-156,Moomoo Cheese,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.11,25.11
+swsh4-157,Nessa,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.04,0.2,0.18,5.04
+swsh4-158,Opal,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.17,0.17,25.16
+swsh4-159,Rocky Helmet,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.09,19.5
+swsh4-160,Telescopic Sight,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.14,0.07,2.0
+swsh4-161,Wyndon Stadium,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.07,25.07
+swsh4-162,Aromatic Grass Energy,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.15,0.13,1.53
+swsh4-163,Coating Metal Energy,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.2,0.2,1.72
+swsh4-164,Stone Fighting Energy,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.02,0.2,0.2,1.73
+swsh4-165,Wash Water Energy,swsh4,Vivid Voltage,Sword & Shield,Uncommon,2026-03-19,0.01,0.2,0.18,1.5
+swsh4-166,Orbeetle V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.25,1.99,1.75,18.88
+swsh4-167,Zarude V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.81,2.9,2.82,29.95
+swsh4-168,Talonflame V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,2.0,3.2,3.2,18.82
+swsh4-169,Galarian Darmanitan V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.0,2.0,1.84,29.95
+swsh4-170,Pikachu V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,26.75,42.81,36.12,4321.0
+swsh4-171,Ampharos V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,3.5,6.35,5.93,24.95
+swsh4-172,Alakazam V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,2.5,3.86,3.63,19.99
+swsh4-173,Coalossal V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.45,2.26,2.1,175.0
+swsh4-174,Galarian Sirfetch'd V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,0.95,2.0,1.88,9.99
+swsh4-175,Drapion V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,0.98,1.93,1.66,9.95
+swsh4-176,Steelix V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,2.89,4.66,4.34,96.93
+swsh4-177,Aegislash V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.75,2.78,2.41,29.95
+swsh4-178,Togekiss V,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,2.49,3.47,3.28,29.95
+swsh4-179,Allister,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,3.9,5.44,5.11,49.99
+swsh4-180,Bea,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,4.99,6.4,6.2,55.0
+swsh4-181,Beauty,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,1.98,3.27,2.98,39.95
+swsh4-182,Leon,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,4.49,7.38,7.36,45.0
+swsh4-183,Nessa,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,6.6,9.99,9.06,96.95
+swsh4-184,Opal,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,0.9,1.73,1.47,19.99
+swsh4-185,Pokémon Center Lady,swsh4,Vivid Voltage,Sword & Shield,Rare Ultra,2026-03-19,13.24,16.99,16.26,40.0
+swsh4-186,Orbeetle VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,6.49,8.0,7.08,29.38
+swsh4-187,Galarian Darmanitan VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,6.4,8.03,6.75,35.26
+swsh4-188,Pikachu VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,117.1,156.89,137.84,4321.0
+swsh4-189,Coalossal VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,4.44,7.82,6.52,22.79
+swsh4-190,Aegislash VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,5.74,7.47,6.88,19.95
+swsh4-191,Togekiss VMAX,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,7.12,11.86,11.64,25.0
+swsh4-192,Allister,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,3.99,5.49,5.47,16.95
+swsh4-193,Bea,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,4.68,6.86,6.39,49.95
+swsh4-194,Beauty,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,3.8,4.99,4.63,45.0
+swsh4-195,Leon,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,4.0,5.74,4.77,39.95
+swsh4-196,Nessa,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,7.8,10.71,9.87,98.95
+swsh4-197,Opal,swsh4,Vivid Voltage,Sword & Shield,Rare Rainbow,2026-03-19,2.85,4.24,4.13,20.0
+swsh4-198,Galarian Obstagoon,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,4.0,6.09,5.73,24.95
+swsh4-199,Oranguru,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,2.99,4.99,4.68,25.0
+swsh4-200,Cape of Toughness,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,1.25,2.33,2.18,39.95
+swsh4-201,Hero's Medal,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,1.35,2.5,1.92,20.0
+swsh4-202,Memory Capsule,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,1.05,2.39,2.03,20.0
+swsh4-203,Telescopic Sight,swsh4,Vivid Voltage,Sword & Shield,Rare Secret,2026-03-19,1.17,2.16,1.8,20.0
+base1-1,Alakazam,base1,Base,Base,Rare Holo,2026-03-19,40.0,63.18,61.55,9999.0
+base1-2,Blastoise,base1,Base,Base,Rare Holo,2026-03-19,140.0,224.34,182.42,749.99
+base1-3,Chansey,base1,Base,Base,Rare Holo,2026-03-19,20.99,42.5,48.41,4321.0
+base1-4,Charizard,base1,Base,Base,Rare Holo,2026-03-19,624.99,756.03,488.2,4321.0
+base1-5,Clefairy,base1,Base,Base,Rare Holo,2026-03-19,17.95,28.5,28.24,4321.0
+base1-6,Gyarados,base1,Base,Base,Rare Holo,2026-03-19,20.0,39.01,41.78,4321.0
+base1-7,Hitmonchan,base1,Base,Base,Rare Holo,2026-03-19,10.0,15.93,17.88,9999.0
+base1-8,Machamp,base1,Base,Base,Rare Holo,2026-03-19,,,,
+base1-9,Magneton,base1,Base,Base,Rare Holo,2026-03-19,11.95,28.99,33.33,4321.0
+base1-10,Mewtwo,base1,Base,Base,Rare Holo,2026-03-19,30.0,58.0,68.48,4321.0
+base1-11,Nidoking,base1,Base,Base,Rare Holo,2026-03-19,19.95,30.7,36.44,4321.0
+base1-12,Ninetales,base1,Base,Base,Rare Holo,2026-03-19,14.89,34.29,36.14,9999.0
+base1-13,Poliwrath,base1,Base,Base,Rare Holo,2026-03-19,19.44,25.7,27.83,9999.0
+base1-14,Raichu,base1,Base,Base,Rare Holo,2026-03-19,45.16,66.19,64.0,4321.0
+base1-15,Venusaur,base1,Base,Base,Rare Holo,2026-03-19,100.0,157.29,141.51,4321.0
+base1-16,Zapdos,base1,Base,Base,Rare Holo,2026-03-19,27.59,49.99,52.51,4321.0
+base1-17,Beedrill,base1,Base,Base,Rare,2026-03-19,1.5,3.05,5.2,9999.0
+base1-18,Dragonair,base1,Base,Base,Rare,2026-03-19,6.66,10.63,13.53,199.99
+base1-19,Dugtrio,base1,Base,Base,Rare,2026-03-19,3.45,4.67,8.21,14.99
+base1-20,Electabuzz,base1,Base,Base,Rare,2026-03-19,3.5,6.76,13.59,96.95
+base1-21,Electrode,base1,Base,Base,Rare,2026-03-19,2.98,4.37,6.99,9999.0
+base1-22,Pidgeotto,base1,Base,Base,Rare,2026-03-19,4.5,9.0,9.68,22.99
+base1-23,Arcanine,base1,Base,Base,Uncommon,2026-03-19,0.88,2.0,3.22,4321.0
+base1-24,Charmeleon,base1,Base,Base,Uncommon,2026-03-19,0.25,1.05,2.89,9999.0
+base1-25,Dewgong,base1,Base,Base,Uncommon,2026-03-19,0.75,2.0,3.03,5.97
+base1-26,Dratini,base1,Base,Base,Uncommon,2026-03-19,0.22,1.05,2.65,96.95
+base1-27,Farfetch'd,base1,Base,Base,Uncommon,2026-03-19,0.2,0.8,1.68,96.95
+base1-28,Growlithe,base1,Base,Base,Uncommon,2026-03-19,0.25,0.74,1.09,9999.0
+base1-29,Haunter,base1,Base,Base,Uncommon,2026-03-19,0.36,1.07,1.77,4321.0
+base1-30,Ivysaur,base1,Base,Base,Uncommon,2026-03-19,0.75,1.9,3.98,9999.0
+base1-31,Jynx,base1,Base,Base,Uncommon,2026-03-19,0.2,0.75,0.95,9999.0
+base1-32,Kadabra,base1,Base,Base,Uncommon,2026-03-19,0.25,1.0,1.61,9999.0
+base1-33,Kakuna,base1,Base,Base,Uncommon,2026-03-19,0.25,0.84,1.82,9.99
+base1-34,Machoke,base1,Base,Base,Uncommon,2026-03-19,0.2,0.69,1.12,9999.0
+base1-35,Magikarp,base1,Base,Base,Uncommon,2026-03-19,0.4,1.31,3.09,96.95
+base1-36,Magmar,base1,Base,Base,Uncommon,2026-03-19,0.5,1.47,2.28,7.99
+base1-37,Nidorino,base1,Base,Base,Uncommon,2026-03-19,0.5,1.56,2.4,99.0
+base1-38,Poliwhirl,base1,Base,Base,Uncommon,2026-03-19,0.1,0.79,1.29,9999.0
+base1-39,Porygon,base1,Base,Base,Uncommon,2026-03-19,0.7,1.69,2.56,99.0
+base1-40,Raticate,base1,Base,Base,Uncommon,2026-03-19,0.8,1.46,2.24,59.99
+base1-41,Seel,base1,Base,Base,Uncommon,2026-03-19,0.25,0.83,1.14,9.99
+base1-42,Wartortle,base1,Base,Base,Uncommon,2026-03-19,0.7,2.36,4.18,39.99
+base1-43,Abra,base1,Base,Base,Common,2026-03-19,0.15,0.54,1.61,9999.0
+base1-44,Bulbasaur,base1,Base,Base,Common,2026-03-19,0.45,1.5,3.24,74.98
+base1-45,Caterpie,base1,Base,Base,Common,2026-03-19,0.25,0.75,1.33,84.99
+base1-46,Charmander,base1,Base,Base,Common,2026-03-19,0.25,1.0,2.07,100.0
+base1-47,Diglett,base1,Base,Base,Common,2026-03-19,0.1,0.49,0.73,23.0
+base1-48,Doduo,base1,Base,Base,Common,2026-03-19,0.1,0.68,1.61,99.0
+base1-49,Drowzee,base1,Base,Base,Common,2026-03-19,0.16,0.52,0.71,7.93
+base1-50,Gastly,base1,Base,Base,Common,2026-03-19,0.2,0.6,0.81,69.99
+base1-51,Koffing,base1,Base,Base,Common,2026-03-19,0.05,0.5,0.56,9999.0
+base1-52,Machop,base1,Base,Base,Common,2026-03-19,0.06,0.39,0.46,21.0
+base1-53,Magnemite,base1,Base,Base,Common,2026-03-19,0.19,0.5,0.67,9999.0
+base1-54,Metapod,base1,Base,Base,Common,2026-03-19,0.15,0.58,0.8,9999.0
+base1-55,Nidoran ♂,base1,Base,Base,Common,2026-03-19,0.01,0.49,0.7,50.0
+base1-56,Onix,base1,Base,Base,Common,2026-03-19,0.1,0.55,1.06,34.99
+base1-57,Pidgey,base1,Base,Base,Common,2026-03-19,0.25,0.75,1.68,12.99
+base1-58,Pikachu,base1,Base,Base,Common,2026-03-19,0.5,4.49,5.94,9999.0
+base1-59,Poliwag,base1,Base,Base,Common,2026-03-19,0.15,0.5,0.68,9999.0
+base1-60,Ponyta,base1,Base,Base,Common,2026-03-19,0.05,0.4,0.4,29.99
+base1-61,Rattata,base1,Base,Base,Common,2026-03-19,0.1,0.49,0.67,23.0
+base1-62,Sandshrew,base1,Base,Base,Common,2026-03-19,0.2,0.5,0.93,29.99
+base1-63,Squirtle,base1,Base,Base,Common,2026-03-19,1.14,2.99,6.33,149.99
+base1-64,Starmie,base1,Base,Base,Common,2026-03-19,0.19,0.53,0.7,7.93
+base1-65,Staryu,base1,Base,Base,Common,2026-03-19,0.2,0.49,0.58,100.0
+base1-66,Tangela,base1,Base,Base,Common,2026-03-19,0.2,0.54,0.73,14.99
+base1-67,Voltorb,base1,Base,Base,Common,2026-03-19,0.5,3.56,4.02,19.99
+base1-68,Vulpix,base1,Base,Base,Common,2026-03-19,0.19,0.5,0.81,79.99
+base1-69,Weedle,base1,Base,Base,Common,2026-03-19,0.01,0.45,0.51,9.99
+base1-70,Clefairy Doll,base1,Base,Base,Rare,2026-03-19,3.0,5.0,7.32,19.99
+base1-71,Computer Search,base1,Base,Base,Rare,2026-03-19,0.9,3.48,6.32,96.95
+base1-72,Devolution Spray,base1,Base,Base,Rare,2026-03-19,1.5,3.5,5.31,9999.0
+base1-73,Impostor Professor Oak,base1,Base,Base,Rare,2026-03-19,2.15,5.14,5.64,96.95
+base1-74,Item Finder,base1,Base,Base,Rare,2026-03-19,5.0,9.0,9.46,89.99
+base1-75,Lass,base1,Base,Base,Rare,2026-03-19,0.98,2.0,3.26,4321.0
+base1-76,Pokémon Breeder,base1,Base,Base,Rare,2026-03-19,3.62,5.99,7.98,114.77
+base1-77,Pokémon Trader,base1,Base,Base,Rare,2026-03-19,1.99,4.15,6.94,96.95
+base1-78,Scoop Up,base1,Base,Base,Rare,2026-03-19,5.0,8.01,8.96,96.93
+base1-79,Super Energy Removal,base1,Base,Base,Rare,2026-03-19,1.4,3.02,4.48,9999.0
+base1-80,Defender,base1,Base,Base,Uncommon,2026-03-19,0.5,0.9,1.56,99.0
+base1-81,Energy Retrieval,base1,Base,Base,Uncommon,2026-03-19,0.15,0.5,0.58,99.0
+base1-82,Full Heal,base1,Base,Base,Uncommon,2026-03-19,0.15,1.02,2.36,96.95
+base1-83,Maintenance,base1,Base,Base,Uncommon,2026-03-19,0.56,1.62,2.93,4.49
+base1-84,PlusPower,base1,Base,Base,Uncommon,2026-03-19,0.23,0.55,0.75,99.0
+base1-85,Pokémon Center,base1,Base,Base,Uncommon,2026-03-19,0.53,1.12,1.75,6.01
+base1-86,Pokémon Flute,base1,Base,Base,Uncommon,2026-03-19,0.65,2.15,3.49,109.99
+base1-87,Pokédex,base1,Base,Base,Uncommon,2026-03-19,0.19,0.45,0.66,19.99
+base1-88,Professor Oak,base1,Base,Base,Uncommon,2026-03-19,0.25,0.99,1.33,99.0
+base1-89,Revive,base1,Base,Base,Uncommon,2026-03-19,0.5,1.63,2.34,7.48
+base1-90,Super Potion,base1,Base,Base,Uncommon,2026-03-19,0.07,0.3,0.36,38.99
+base1-91,Bill,base1,Base,Base,Common,2026-03-19,0.03,0.34,0.41,99.0
+base1-92,Energy Removal,base1,Base,Base,Common,2026-03-19,0.12,0.38,0.51,7.93
+base1-93,Gust of Wind,base1,Base,Base,Common,2026-03-19,0.04,0.3,0.37,99.0
+base1-94,Potion,base1,Base,Base,Common,2026-03-19,0.03,0.26,0.29,9999.0
+base1-95,Switch,base1,Base,Base,Common,2026-03-19,0.05,0.31,0.34,19.99
+base1-96,Double Colorless Energy,base1,Base,Base,Uncommon,2026-03-19,2.5,3.62,5.97,99.99
+base1-97,Fighting Energy,base1,Base,Base,Unknown,2026-03-19,0.1,0.3,0.39,99.0
+base1-98,Fire Energy,base1,Base,Base,Unknown,2026-03-19,0.05,0.3,0.15,99.0
+base1-99,Grass Energy,base1,Base,Base,Unknown,2026-03-19,0.05,0.35,0.37,19.99
+base1-100,Lightning Energy,base1,Base,Base,Unknown,2026-03-19,0.09,0.38,0.48,19.99
+base1-101,Psychic Energy,base1,Base,Base,Unknown,2026-03-19,0.1,0.35,0.54,9.99
+base1-102,Water Energy,base1,Base,Base,Unknown,2026-03-19,0.03,0.35,0.53,19.5
